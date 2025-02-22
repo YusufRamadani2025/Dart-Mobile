@@ -1,0 +1,16 @@
+{
+    "Name": "Mawak Deng",
+    "Age": 30,
+    "Hobby": [
+        "Nongs",
+        "Basket",
+        "Ngaji"
+    ],
+    
+    "github": {
+        "username": "@gurupeai",
+        "repositories": 2897,
+        "isGDE": true
+    }
+
+}
