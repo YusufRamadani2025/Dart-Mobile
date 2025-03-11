@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:link_3/home_screen.dart';
+import 'package:fluttersliccing/boardingpage.dart';
+import 'package:fluttersliccing/home_screen.dart';
 
 
 void main() {
@@ -17,7 +18,7 @@ class HouseMateApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.brown,
       ),
-      home: HomePage(),
+      home: Boarding_page(),
     );
   }
 }

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart' as cs;
-import 'package:link_3/product_page.dart';
+import 'package:fluttersliccing/product_page.dart';
 
 void main() {
   runApp(const MyApp());
