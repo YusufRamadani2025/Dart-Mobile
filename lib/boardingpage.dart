@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttersliccing/home_screen.dart';
+import 'package:fluttersliccing/homePage.dart';
 
 void main() {
   runApp(const BoardingPage());

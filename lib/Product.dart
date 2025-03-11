@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttersliccing/product_detailpage.dart';
+import 'package:fluttersliccing/Detailpage.dart';
 
 class ProductPage extends StatelessWidget {
   @override
