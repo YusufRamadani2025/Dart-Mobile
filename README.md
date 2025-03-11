@@ -1,3 +1,5 @@
-# link_3
+# Tugas Flutter Bu yaya Sliccing 
 
-A new Flutter project.
+Project yang akan di sliccing :
+
+![alt text](assets/sliccing.png)
